@@ -19,8 +19,10 @@ Then install Scapy:
 
 	sudo pip install scapy
 
+## Additional Tools
+
 Here are some other cool tools that you can use once you have run the script
-and created a MITM:
+and created a MITM.
 
 __sslstrip__
 
